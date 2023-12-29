@@ -57,6 +57,11 @@ POST /api/user/register/
 ```
 All these endpoints are related to **user management** which can be used for `registration`, `login`, `Token Refresh`, `Profile` and `Updat Profile`.
 
+## Snapshot
+![Screenshot from 2023-12-01 20-10-53](https://github.com/JunaidRafique69/iot-device-management-platform/assets/133365751/6baa05f6-bef1-42fd-93ae-73951834b40f)
+
+
+
 # Front-End Application 
 ## Getting Started with React App
 
